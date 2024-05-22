@@ -1,5 +1,6 @@
 # WELCOME!!
-![pricing page](https://github.com/aparna22-13/pricing/assets/146913673/c0778ae5-2734-475f-90b8-0c55bf241b4f)
+![pricingpage](https://github.com/aparna22-13/pricing/assets/146913673/f7d36e7b-2ac2-45b3-a221-c866722ebeee)
+
 
 # Pricing Table
 
