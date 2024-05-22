@@ -1,3 +1,6 @@
+# WELCOME!!
+![pricing page](https://github.com/aparna22-13/pricing/assets/146913673/c0778ae5-2734-475f-90b8-0c55bf241b4f)
+
 # Pricing Table
 
 This is a simple pricing table built with HTML and CSS. It includes three plans: Basic, Professional, and Master, each with its own features and pricing.
@@ -10,6 +13,7 @@ This is a simple pricing table built with HTML and CSS. It includes three plans:
 # Design
 
 The pricing table is designed to be simple and easy to read, with a clean layout and clear pricing information. The table is divided into three columns, each representing a different plan. Each plan has its own name, price, features, and "Learn More" button.
+
 
 The table is responsive, meaning it will adjust to fit different screen sizes. On smaller screens, the table will stack vertically, with each plan displayed as a separate block.
 
@@ -61,3 +65,5 @@ The table is designed to be easy to use and integrate into your project, whether
 # Conclusion
 The pricing table is a simple and effective way to display pricing information for your product or service. With its clean design, responsive layout, and customizable features, it's a great choice for any project.
 I hope you find it useful!
+
+
